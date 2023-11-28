@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Alexandre Oliveira
 
 ## Sobre mim:
-• Desenvolvedor full stack.<br>
-• Experiência com as plataformas web, PC e mainframe.<br>
+• Atividades atualmente direcionadas no desenvolvimento web Full Stack.<br>
+• Conhecimentos técnicos: C#, .NET, Blazor, Vue.js, Javascript, HTML, CSS, Visual Basic, Clipper, PL/SQL, SQL Server, Oracle, PL/I, Easytrieve, Cobol, JCL, DB2, IMS-DB/DC e DataStage.<br>
+• Experiência com desenvolvimento de aplicações web, baixa plataforma, mainframe e BI.<br> 
 • Conhecimento amplo em todas as fases de desenvolvimento de sistemas, levantamento de requisitos, análise, estimativa, especificação de programas, elaboração de testes, programação, testes, implantação, correções de incidentes e melhorias.
+
 
 ## 💻 Stack Tecnológico:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
