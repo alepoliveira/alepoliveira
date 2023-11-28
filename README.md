@@ -3,7 +3,7 @@
 ## Sobre mim:
 • Atividades atualmente direcionadas no desenvolvimento web Full Stack.<br>
 • Conhecimentos técnicos: C#, .NET, Blazor, Vue.js, Javascript, HTML, CSS, Visual Basic, Clipper, PL/SQL, SQL Server, Oracle, PL/I, Easytrieve, Cobol, JCL, DB2, IMS-DB/DC e DataStage.<br>
-• Experiência com desenvolvimento de aplicações web, baixa plataforma, mainframe e BI.<br> 
+• Experiência com desenvolvimento e sustentação de aplicações web, baixa plataforma, mainframe e BI.<br> 
 • Conhecimento amplo em todas as fases de desenvolvimento de sistemas, levantamento de requisitos, análise, estimativa, especificação de programas, elaboração de testes, programação, testes, implantação, correções de incidentes e melhorias.
 
 
